@@ -1,6 +1,4 @@
-# Vue Jobs Project (YouTube)
-
-This is the jobs listing project from the [YouTube crash course](https://www.youtube.com/watch?v=VeNfHj6MhgA).
+# Vue Jobs
 
 <img src="public/screen.png" />
 
@@ -16,7 +14,7 @@ npm install
 
 ### Run JSON Server
 
-The server will run on http://localhost:8000
+The server will run on http://localhost:5000
 
 ```bash
 npm run server
